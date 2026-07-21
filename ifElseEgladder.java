@@ -1,4 +1,4 @@
-public class ifElseEg {
+public class ifElseEgladder {
     public static void main(String[] args) {
         boolean isSeniorCitizen=false;
         boolean isAnAdult=true;

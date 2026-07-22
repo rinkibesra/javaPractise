@@ -17,5 +17,7 @@ public class ass3Q20 {
         }else{
             System.out.println("You are a child");
         }
+
+        
     }
 }
